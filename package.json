@@ -1,0 +1,10 @@
+{
+  "name": "admob-verification",
+  "version": "1.0.0",
+  "description": "AdMob verification site for Gittiom Market",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'"
+  },
+  "author": "",
+  "license": "MIT"
+}
